@@ -1,7 +1,7 @@
 {
   "RecipeFormatVersion": "2020-01-25",
   "ComponentName": "com.example.lighty",
-  "ComponentVersion": "1.0.2",
+  "ComponentVersion": "1.0.1",
   "ComponentDescription": "My light ipc component.",
   "ComponentPublisher": "Me",
   "ComponentConfiguration": {
